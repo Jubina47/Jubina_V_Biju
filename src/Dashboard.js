@@ -85,7 +85,6 @@ function Dashboard() {
       <button type="button" onClick={addAddressBookInfo}>
         Add Info
       </button>
-      <button type="reset">Reset</button>
     </div>
   </form>
 </div>
